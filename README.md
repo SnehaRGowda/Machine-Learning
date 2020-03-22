@@ -22,11 +22,11 @@ Its a collection of website URLs for 11000+ websites. Each sample has 30 website
 https://www.kaggle.com/eswarchandt/phishing-website-detector
 
 ### Installation
-Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archive/) ,once you open the link, you'll find a long list of installers, choose the latest version amd download the relevent OS installer and install it.
+Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archive/) ,once you open the link, you'll find a long list of installers, choose the latest version and download the relevent OS installer and install it.
 
 To download the ipynb file from GitHub-
 
-* click on Raw
+* Click on Raw
 * Then, press ctrl+s to save it as .ipynb
 * Open jupyter notebook
 * Go to location where you saved .ipynb file
@@ -34,6 +34,6 @@ To download the ipynb file from GitHub-
 
 ### Usage
 
-As Website Phishing is a very serious issue, we need to be cautious before we share our personal information with any website for that matter.This project is to develop a model which best predicts if a website is a phishing website or not. In this notebook i have implemented three classification algorithms(Logistic Regression, Random Forest Classifier, Neural Networks).From all the models developed , Neural Networks accuracy has highest accuracy that is 100% and followed by Random Forest Classifier and Logistic Regression. So, neural networks would best predict if a website is a phishing website or not.
+As Website Phishing is a very serious issue, we need to be cautious before we share our personal information with any website for that matter.This project is to develop a model which predicts if a website is a phishing website or not. In this notebook I have implemented three classification algorithms(Logistic Regression, Random Forest Classifier, Neural Networks).From all the models developed , Neural Networks accuracy has highest accuracy that is 100% and followed by Random Forest Classifier and Logistic Regression. So, neural networks would best predict if a website is a phishing website or not.
  
 
