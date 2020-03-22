@@ -22,6 +22,15 @@ Its a collection of website URLs for 11000+ websites. Each sample has 30 website
 https://www.kaggle.com/eswarchandt/phishing-website-detector
 
 ### Installation
-Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archiev/)
-Steps to Install:
-  
+Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archive/) ,once you open the link, you'll find a long list of installers, choose the latest version amd download the relevent OS installer and install it.
+
+To download the ipynb file from GitHub-
+
+* click on Raw
+* Then, press ctrl+s to save it as .ipynb
+* Open jupyter notebook
+* Go to location where you saved .ipynb file
+* Open that file and start executing
+
+ 
+
