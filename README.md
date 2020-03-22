@@ -34,6 +34,6 @@ To download the ipynb file from GitHub-
 
 ### Usage
 
-As Website Phishing is a very serious issue, we need to be cautious before we share our personal information with any website for that matter.This project is to develop a model which predicts if a website is a phishing website or not. In this notebook I have implemented three classification algorithms(Logistic Regression, Random Forest Classifier, Neural Networks).From all the models developed , Neural Networks accuracy has highest accuracy that is 100% and followed by Random Forest Classifier and Logistic Regression. So, neural networks would best predict if a website is a phishing website or not.
+As Website Phishing is a very serious issue, we need to be cautious before we share our personal information with any website for that matter.The goal of this project is to develop a model which predicts if a website is a phishing website or not. In this notebook I have implemented three classification algorithms(Logistic Regression, Random Forest Classifier, Neural Networks).From all the models developed , Neural Networks accuracy has highest accuracy that is 100% and followed by Random Forest Classifier and Logistic Regression. So, neural networks would best predict if a website is a phishing website or not.
  
 
