@@ -20,3 +20,8 @@ Its a collection of website URLs for 11000+ websites. Each sample has 30 website
 
 ### Link to the Dataset- 
 https://www.kaggle.com/eswarchandt/phishing-website-detector
+
+### Installation
+Install the latest version of Anaconda for python 3 from this link (https://repo.anaconda.com/archiev/)
+Steps to Install:
+  
