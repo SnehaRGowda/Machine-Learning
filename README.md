@@ -17,3 +17,6 @@ Its a collection of website URLs for 11000+ websites. Each sample has 30 website
 ### Brief Description of the features in data set
 
 ● UsingIP (categorical - signed numeric) : { -1,1 } ● LongURL (categorical - signed numeric) : { 1,0,-1 } ● ShortURL (categorical - signed numeric) : { 1,-1 } ● Symbol@ (categorical - signed numeric) : { 1,-1 } ● Redirecting// (categorical - signed numeric) : { -1,1 } ● PrefixSuffix- (categorical - signed numeric) : { -1,1 } ● SubDomains (categorical - signed numeric) : { -1,0,1 } ● HTTPS (categorical - signed numeric) : { -1,1,0 } ● DomainRegLen (categorical - signed numeric) : { -1,1 } ● Favicon (categorical - signed numeric) : { 1,-1 } ● NonStdPort (categorical - signed numeric) : { 1,-1 } ● HTTPSDomainURL (categorical - signed numeric) : { -1,1 } ● RequestURL (categorical - signed numeric) : { 1,-1 } ● AnchorURL (categorical - signed numeric) : { -1,0,1 }
+
+### Link to the Dataset- 
+https://www.kaggle.com/eswarchandt/phishing-website-detector
